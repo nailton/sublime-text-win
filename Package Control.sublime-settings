@@ -1,0 +1,25 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"BracketHighlighter",
+		"Clipboard History",
+		"CodeIgniter Snippets",
+		"Comment-Snippets",
+		"EasyDiff",
+		"EditorConfig",
+		"Emmet",
+		"Emmet Css Snippets",
+		"GitGutter",
+		"Gitignore",
+		"jQuery",
+		"Package Control",
+		"Placeholders",
+		"PlainTasks",
+		"Prefixr",
+		"Quick File Creator",
+		"SideBarEnhancements",
+		"SublimeCodeIntel"
+	]
+}
