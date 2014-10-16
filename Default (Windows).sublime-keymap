@@ -12,4 +12,5 @@
 { "keys": ["ctrl+alt+f"], "command": "side_bar_find_files_path_containing" },
   { "keys": ["alt+d"], "command": "goto_definition" },
   { "keys": ["ctrl+k", "ctrl+t"], "command": "title_case" },
+
 ]
