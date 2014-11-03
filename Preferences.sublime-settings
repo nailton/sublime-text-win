@@ -1,12 +1,11 @@
 {
-	"itg_small_tabs": true, 
 	"always_prompt_for_file_reload": false,
 	"always_show_minimap_viewport": false,
 	"animation_enabled": true,
 	"atomic_save": true,
 	"auto_close_tags": true,
 	"auto_complete": true,
-	"auto_complete_commit_on_tab": false,
+	"auto_complete_commit_on_tab": true,
 	"auto_complete_delay": 50,
 	"auto_complete_selector": "source - comment, meta.tag - punctuation.definition.tag.begin",
 	"auto_complete_size_limit": 4194304,
@@ -17,7 +16,7 @@
 			"selector": "text.html"
 		}
 	],
-	"auto_complete_with_fields": false,
+	"auto_complete_with_fields": true,
 	"auto_find_in_selection": false,
 	"auto_indent": true,
 	"auto_match_enabled": true,
@@ -96,6 +95,7 @@
 	"font_face": "SourceCodePro-Regular",
 	"font_options":
 	[
+		"DirectWrite"
 	],
 	"font_size": 14,
 	"gpu_window_buffer": "auto",
@@ -105,6 +105,7 @@
 	"hot_exit": true,
 	"ignored_packages":
 	[
+		"SideBarEnhancements",
 		"Vintage"
 	],
 	"indent_guide_options":
@@ -118,6 +119,7 @@
 		"*.log"
 	],
 	"index_files": true,
+	"itg_small_tabs": true,
 	"line_numbers": true,
 	"line_padding_bottom": 0,
 	"line_padding_top": 0,
@@ -150,15 +152,16 @@
 	"smart_indent": true,
 	"spell_check": false,
 	"tab_completion": true,
-	"tab_size": 4,
+	"tab_size": 2,
 	"theme": "itg.flat.dark.sublime-theme",
 	"translate_tabs_to_spaces": false,
 	"tree_animation_enabled": true,
 	"trim_automatic_white_space": true,
 	"trim_trailing_white_space_on_save": false,
-	"use_simple_full_screen": false,
+	"use_simple_full_screen": true,
 	"use_tab_stops": true,
+	"wide_caret": true,
 	"word_separators": "./\\()\"'-:,.;<>~!@#$%^&*|+=[]{}`~?",
-	"word_wrap": "auto",
-	"wrap_width": 0
+	"word_wrap": true,
+	"wrap_width": 80
 }
