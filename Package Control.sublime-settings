@@ -1,16 +1,19 @@
 {
 	"auto_upgrade_last_run": null,
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
 		"AdvancedNewFile",
 		"All Autocomplete",
 		"AutoFileName",
 		"AutomaticFullscreen",
-		"BracketHighlighter",
 		"Clipboard History",
 		"CodeIgniter Snippets",
 		"Comment-Snippets",
 		"CSS Completions",
+		"CSS Extended Completions",
 		"CSS Snippets",
 		"CSS3",
 		"cssDOC",
@@ -31,12 +34,14 @@
 		"Minify",
 		"Package Control",
 		"Placeholders",
-		"Placester",
-		"PlainTasks",
+		"Predawn",
+		"Predawn Monokai",
 		"Prefixr",
 		"Quick File Creator",
+		"Search WordPress Codex or QueryPosts",
 		"SideBarEnhancements",
-		"SublimeCodeIntel",
-		"Theme - itg.flat"
+		"Theme - itg.flat",
+		"WordPress",
+		"WordPress Generate Salts"
 	]
 }
