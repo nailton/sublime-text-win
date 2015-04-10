@@ -29,10 +29,12 @@
 		"HTMLAttributes",
 		"HTMLBeautify",
 		"jQuery",
+		"jQuery Snippets pack",
 		"JSHint",
 		"LoremIpsum",
 		"Minify",
 		"Package Control",
+		"PHP Completions Kit",
 		"Placeholders",
 		"Predawn",
 		"Predawn Monokai",
@@ -40,7 +42,6 @@
 		"Quick File Creator",
 		"Search WordPress Codex or QueryPosts",
 		"SideBarEnhancements",
-		"Theme - itg.flat",
 		"WordPress",
 		"WordPress Generate Salts"
 	]

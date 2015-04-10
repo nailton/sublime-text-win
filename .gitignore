@@ -11,3 +11,4 @@ Package Control.ca-certs/
 /Backup
 log.txt
 bh_unicode_properties.cache
+*ca-bundle
