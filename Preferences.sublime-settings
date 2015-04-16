@@ -96,7 +96,9 @@
 	"font_face": "SourceCodePro-Regular",
 	"font_options":
 	[
-		"DirectWrite"
+		"DirectWrite",
+		"subpixel_antialias",
+		"gdi"
 	],
 	"font_size": 14,
 	"gpu_window_buffer": "auto",
@@ -135,7 +137,7 @@
 	"open_files_in_new_window": true,
 	"overlay_scroll_bars": "system",
 	"preview_on_click": true,
-	"remember_full_screen": false,
+	"remember_full_screen": true,
 	"remember_open_files": true,
 	"rulers":
 	[
