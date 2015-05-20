@@ -103,8 +103,8 @@
 	"font_size": 14,
 	"gpu_window_buffer": "auto",
 	"gutter": true,
-	"highlight_line": false,
-	"highlight_modified_tabs": false,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
 	"hot_exit": true,
 	"ignored_packages":
 	[
@@ -121,11 +121,10 @@
 		"*.log"
 	],
 	"index_files": true,
-	"itg_small_tabs": true,
 	"line_numbers": true,
 	"line_padding_bottom": 0,
 	"line_padding_top": 0,
-	"margin": 4,
+	"margin": 0,
 	"match_brackets": true,
 	"match_brackets_angle": false,
 	"match_brackets_braces": true,
