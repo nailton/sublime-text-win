@@ -19,5 +19,6 @@
           "activate_browser": true,
           "browser_name" : "all"
       }
-  }
+  },
+    { "keys": ["ctrl+alt+c"], "command": "use_it" }
 ]
