@@ -42,7 +42,7 @@
 	"caret_extra_width": 0,
 	"caret_style": "smooth",
 	"close_windows_when_empty": false,
-	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
+	"color_scheme": "Packages/User/temas/itg.dark.tmTheme",
 	"copy_with_empty_selection": true,
 	"create_window_at_startup": true,
 	"default_encoding": "UTF-8",
@@ -81,7 +81,8 @@
 		"*.class",
 		"*.psd",
 		"*.db",
-		"*.sublime-workspace"
+		"*.sublime-workspace",
+		"*.sublime*"
 	],
 	"find_selected_text": true,
 	"findreplace_small": true,
@@ -123,7 +124,7 @@
 		"*.log"
 	],
 	"index_files": true,
-	"line_numbers": true,
+	"line_numbers": false,
 	"line_padding_bottom": 3,
 	"line_padding_top": 3,
 	"margin": 0,
@@ -134,7 +135,7 @@
 	"match_brackets_square": true,
 	"match_selection": true,
 	"match_tags": true,
-	"material_theme_accent_red": true,
+	// "material_theme_accent_red": true,
 	"material_theme_small_tab": true,
 	"move_to_limit_on_up_down": false,
 	"open_files_in_new_window": true,
