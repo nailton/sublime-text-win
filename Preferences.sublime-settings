@@ -110,7 +110,7 @@
 	"hot_exit": true,
 	"ignored_packages":
 	[
-		"Vintage"
+	"Vintage"
 	],
 	"indent_guide_options":
 	[
@@ -135,7 +135,6 @@
 	"match_brackets_square": true,
 	"match_selection": true,
 	"match_tags": true,
-	// "material_theme_accent_red": true,
 	"material_theme_small_tab": true,
 	"move_to_limit_on_up_down": false,
 	"open_files_in_new_window": true,
