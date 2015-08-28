@@ -2,16 +2,17 @@
 { "keys": ["ctrl+t"], "command": "side_bar_new_file" },
 { "keys": ["f12"],
 "command": "side_bar_open_in_browser" ,
-    "args":{"paths":[], "type":"testing"}
-  },
+"args":{"paths":[], "type":"testing"}
+},
 { "keys": ["alt+f12"],
 "command": "side_bar_open_in_browser",
 "args":{"paths":[], "type":"production"}
 },
 { "keys": ["f2"], "command": "side_bar_rename" },
 { "keys": ["ctrl+alt+f"], "command": "side_bar_find_files_path_containing" },
-  { "keys": ["alt+d"], "command": "goto_definition" },
-  { "keys": ["ctrl+k", "ctrl+t"], "command": "title_case" },
-    { "keys": ["ctrl+alt+c"], "command": "use_it" },
-    { "keys": ["ctrl+shift+r"], "command": "goto_symbol_in_project" },
+{ "keys": ["alt+d"], "command": "goto_definition" },
+{ "keys": ["ctrl+k", "ctrl+t"], "command": "title_case" },
+{ "keys": ["ctrl+alt+c"], "command": "use_it" },
+{ "keys": ["ctrl+shift+r"], "command": "goto_symbol_in_project" },
+{ "keys": ["ctrl+e"], "command": "show_overlay", "args": {"overlay": "goto", "text": "#"} },
 ]
